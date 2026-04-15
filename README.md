@@ -66,10 +66,6 @@ It is designed to support data-driven decision-making by identifying where to in
 - Device
 - Region
 
-### Preview
-
-![Marketing Dashboard](dashboard.png)
-
 ## Key Insights
 - Google Ads generates the highest revenue contribution and strong conversion performance
 - Meta Ads delivers high reach but lower conversion efficiency compared to other channels
