@@ -1,4 +1,4 @@
-# Event Marketing Analysis – Carnaval Case Study
+# Event Marketing Analysis – Carnaval de Québec Case Study
 
 ## Overview
 This project analyzes the marketing performance of a cultural event inspired by the Carnaval de Québec.
