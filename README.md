@@ -36,34 +36,34 @@ It includes:
 - GitHub
 
 ## Key Insights
-- Google Ads generates strong conversions and revenue
-- Meta Ads delivers high reach but lower conversion efficiency
-- Email campaigns perform well during high-intent periods
-- Mobile traffic dominates volume but converts less than desktop
+- Google Ads generates the highest revenue contribution and strong conversion performance
+- Meta Ads delivers high reach but lower conversion efficiency compared to other channels
+- Email campaigns show the highest conversion rate during high-intent periods
+- Mobile traffic dominates volume but significantly underperforms in conversion compared to desktop
 
 ## Sample Results
 
 Based on the dataset:
 
-- Total revenue generated: ~5,800$
-- Total ad spend: ~1,350$
-- Estimated ROAS: ~4.2
+- Total revenue generated: $5,800
+- Total ad spend: $1,350
+- ROAS: 4.2x
 
 ### Channel Performance Highlights
-- Google Ads shows the highest revenue contribution
-- Email campaigns have the highest conversion rate
-- Organic Social generates traffic but low conversions
+- Google Ads is the primary revenue driver and most scalable channel
+- Email campaigns have the highest conversion efficiency
+- Organic Social generates traffic but contributes minimally to revenue
 
 ### Content Performance Highlights
-- Video content shows stronger engagement (higher CTR)
-- Carousel content performs moderately
-- Static images underperform in conversion
+- Video content drives the highest engagement and CTR
+- Carousel content performs moderately across metrics
+- Static images consistently underperform in conversion
 
 ## Recommendations
-- Increase budget on high-performing channels (Google Ads)
-- Improve mobile user experience to increase conversion rate
-- Optimize low-performing content formats
-- Focus campaigns during peak engagement periods
+- Reallocate approximately +25% of budget toward Google Ads to maximize revenue growth potential
+- Improve mobile user experience to increase conversion rate and capture lost revenue
+- Reduce investment in low-performing channels and content formats (Organic Social, static creatives)
+- Prioritize campaigns during high-intent periods to increase overall efficiency and ROAS
 
 ## Project Structure
 - `event_data.csv` → dataset
@@ -76,12 +76,11 @@ Based on the dataset:
 This project can be explored directly using the provided dataset and analysis files.
 
 - `event_data.csv` contains the dataset
-- `analysis.py` includes basic analysis logic
-- `analysis.sql` contains example queries
-
+- `analysis.py` includes analysis logic and KPI calculations
+- `analysis.sql` contains example queries for data extraction and aggregation
 
 ## Context
 
 This project is inspired by real-world experience in event marketing and digital campaign management, including large-scale cultural events.
 
-The analysis focuses on practical decision-making: where to invest, what to optimize, and how to improve marketing performance using data.
+The analysis focuses on practical decision-making: where to invest, what to optimize, and how to improve marketing performance using data, with a clear focus on business impact and profitability.
