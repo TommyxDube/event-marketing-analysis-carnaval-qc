@@ -1,0 +1,7 @@
+date;channel;impressions;clicks;conversions;ad_spend;revenue;content_type;device;region;ctr;conversion_rate
+2026-01-20;Google Ads;5000;200;20;300;800;Video;Mobile;Québec;0.04;0.10
+2026-01-20;Meta Ads;8000;240;18;250;600;Image;Mobile;Montréal;0.03;0.075
+2026-01-21;Email;2000;300;50;100;2000;Story;Desktop;Québec;0.15;0.166
+2026-01-21;Organic Social;7000;210;10;0;300;Carousel;Mobile;Autres;0.03;0.047
+2026-01-22;Google Ads;6000;300;40;400;1600;Video;Desktop;Québec;0.05;0.133
+2026-01-22;Meta Ads;9000;270;15;300;500;Image;Mobile;Montréal;0.03;0.055
