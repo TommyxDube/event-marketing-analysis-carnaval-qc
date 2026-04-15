@@ -35,6 +35,41 @@ It includes:
 - Excel
 - GitHub
 
+## Dashboard
+
+This dashboard provides a clear overview of marketing performance across channels, devices, and content types.
+
+It is designed to support data-driven decision-making by identifying where to invest, what to optimize, and how to improve overall campaign performance.
+
+### Key Metrics
+- Revenue
+- Ad Spend
+- ROAS
+- CTR
+- Conversion Rate
+- Cost per Conversion
+
+### Dashboard Insights
+- Google Ads is the most profitable channel, generating the highest revenue and ROAS
+- Email campaigns show the highest conversion rate, especially during high-intent periods
+- Mobile drives the majority of traffic but underperforms in conversion compared to desktop
+- Video content delivers the highest engagement and CTR, outperforming static formats
+
+### Business Impact
+- Reallocating budget toward Google Ads could significantly increase overall revenue
+- Improving mobile conversion rate represents a major opportunity for growth
+- Reducing spend on low-performing channels and formats can improve marketing efficiency
+- Prioritizing high-performing content types can increase engagement and conversions
+
+### Filters Available
+- Channel
+- Device
+- Region
+
+### Preview
+
+![Marketing Dashboard](dashboard.png)
+
 ## Key Insights
 - Google Ads generates the highest revenue contribution and strong conversion performance
 - Meta Ads delivers high reach but lower conversion efficiency compared to other channels
